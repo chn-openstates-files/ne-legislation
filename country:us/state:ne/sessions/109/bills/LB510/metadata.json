@@ -9,8 +9,34 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ne-109-lb510"
+    }
+  ],
   "actions": [
+    {
+      "description": "Indefinitely postponed",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:28:28Z"
+      }
+    },
+    {
+      "description": "Title printed. Carryover bill",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:28:28Z"
+      }
+    },
     {
       "description": "Notice of hearing for March 19, 2025",
       "date": "2025-03-11",
@@ -116,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:37:33Z"
+    "logs_latest_update": "2026-07-14T13:28:28Z"
   }
 }

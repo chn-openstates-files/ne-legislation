@@ -9,8 +9,34 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ne-109-lb322"
+    }
+  ],
   "actions": [
+    {
+      "description": "Indefinitely postponed",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:28:28Z"
+      }
+    },
+    {
+      "description": "Title printed. Carryover bill",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:28:28Z"
+      }
+    },
     {
       "description": "Provisions/portions of LB26 amended into LB322 by AM767",
       "date": "2025-06-06",
@@ -538,8 +564,7 @@
   ],
   "extras": {
     "NE_REF_DATE": "February 12, 2025",
-    "NE_REF_COM": "Judiciary Committee",
-    "NE_PRIORITIZER": "Senator Clouse"
+    "NE_REF_COM": "Judiciary Committee"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ne/government",
@@ -548,6 +573,6 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:37:34Z"
+    "logs_latest_update": "2026-07-14T13:28:28Z"
   }
 }
